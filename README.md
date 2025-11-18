@@ -13,9 +13,10 @@ Python project για **ανάκτηση, ανάλυση και live visualizati
 - Στατικό **bar chart** με τιμές και χρωματισμό  
 - **Live dashboard** με ανανέωση κάθε 5 δευτερόλεπτα  
 - Επαγγελματικό layout με **Streamlit**  
-- Εύκολο setup και τρέξιμο με Python  
+
 
 ---
+
 
 
 
